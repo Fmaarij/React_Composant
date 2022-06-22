@@ -3,9 +3,9 @@ import React from 'react';
 class DemoComponent extends React.Component {
     render() {  
         return (
-            <div>
+            <h1>
                 Hello World
-            </div>
+            </h1>
         );
     }
 }
