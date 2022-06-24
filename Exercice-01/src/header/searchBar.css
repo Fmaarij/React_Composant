@@ -1,6 +1,12 @@
 .search-bar{
 gap: 0.5rem;
 display: flex;
+flex-direction: row;
+margin: auto;
+justify-content: space-around;
+align-items: center;
+align-content: center;
+
 
 }
 .search-bar button{

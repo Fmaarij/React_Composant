@@ -5,6 +5,8 @@ ul{
     justify-content: space-around;
     /* text-decoration: none; */
     gap: 1rem;
+    margin: auto;
+    padding: 1rem;
 }
 li button{
     color: #fff;
