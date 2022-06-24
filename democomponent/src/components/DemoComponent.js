@@ -4,7 +4,7 @@ class DemoComponent extends React.Component {
     render() {  
         return (
             <h1>
-                Hello World
+                Vous êtes sur la page d'accueil
             </h1>
         );
     }
