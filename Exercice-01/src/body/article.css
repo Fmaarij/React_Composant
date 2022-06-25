@@ -17,8 +17,6 @@
     .text-ligne1{
         width: 100%;
         color: rgba(255, 255, 255, 0.685);
-        
-        
     }
     .text-ligne1 p{
         display: flex;

@@ -3,7 +3,6 @@ import './article.css';
 import tartine from '../img/tartine.png';
 class Article extends React.Component {
     render() {
-        // let imgLigne1=src="./img/tartine.png";
         return (
             <div className="les-Article">
                 {/* //ligne1 */}
