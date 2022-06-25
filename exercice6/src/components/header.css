@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 18px;
+    list-style: none;
+    padding: 4rem;
+
+}
+li a{
+    text-decoration: none;
+    padding: 1rem;
+    background-color: aliceblue;
+    color: #000;
+    cursor: pointer;
+}
